@@ -8,7 +8,7 @@
 
 <br>
 
-[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.0.0-3DDC84?style=for-the-badge)](https://github.com/lerapeurdu62280-debug/AndroidTvPcIsoBuilder-Download/releases/latest)
+[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.1.0-3DDC84?style=for-the-badge)](https://github.com/lerapeurdu62280-debug/AndroidTvPcIsoBuilder-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-configuration-requise)
 [![Français](https://img.shields.io/badge/interface-français-7B61FF?style=for-the-badge)](#)
 
@@ -74,7 +74,7 @@ Un vieux PC, un mini-PC ou un portable qui dort dans un placard fait un excellen
 
 ### 💾 Clé USB ou disque dur
 - **Écriture directe sur clé USB** en un clic, en fin de création.
-- **Mémoire persistante** : applications et réglages conservés à chaque redémarrage.
+- **Mémoire persistante** : applications et réglages conservés à chaque redémarrage, sur une clé écrite par le logiciel ou sur une clé USB en FAT32 / exFAT (un clic pour la préparer).
 - **Installation sur le disque dur** du PC (Android seul).
 - **Mode diagnostic** pour dépanner un PC récalcitrant.
 
@@ -110,7 +110,7 @@ Un vieux PC, un mini-PC ou un portable qui dort dans un placard fait un excellen
 <tr>
 <td width="50%" align="center">
 <img src="docs/screenshots/06-installation.png" alt="Installation"><br>
-<b>5 · Installation</b><br><sub>Clé USB, disque dur et options avancées.</sub>
+<b>5 · Installation</b><br><sub>Mémoire persistante en un clic, disque dur et options avancées.</sub>
 </td>
 <td width="50%" align="center">
 <img src="docs/screenshots/07-compilation.png" alt="Création en direct"><br>
@@ -180,7 +180,9 @@ Non, sauf si vous le demandez. Par défaut, Android TV démarre depuis la clé U
 <details>
 <summary><b>Mes applications et réglages sont-ils conservés après un redémarrage ?</b></summary>
 <br>
-Oui, sur une clé ou un disque écrits par le logiciel : la mémoire persistante est activée par défaut.
+Oui, de deux façons :
+- **clé ou disque écrits par le logiciel** (« Installer sur clé USB ») : la mémoire est incluse et activée par défaut ;
+- **ISO lancée depuis une clé Ventoy** : à l'étape 5, choisissez une clé USB en **FAT32 ou exFAT** et cliquez sur **Créer**. Laissez cette clé branchée au démarrage. Une clé en NTFS ne convient pas : Android ne sait pas y écrire.
 </details>
 
 <details>

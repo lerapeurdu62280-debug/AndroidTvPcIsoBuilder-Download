@@ -8,7 +8,7 @@
 
 <br>
 
-[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.1.0-3DDC84?style=for-the-badge)](https://github.com/lerapeurdu62280-debug/AndroidTvPcIsoBuilder-Download/releases/latest)
+[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.1.1-3DDC84?style=for-the-badge)](https://github.com/lerapeurdu62280-debug/AndroidTvPcIsoBuilder-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-configuration-requise)
 [![Français](https://img.shields.io/badge/interface-français-7B61FF?style=for-the-badge)](#)
 

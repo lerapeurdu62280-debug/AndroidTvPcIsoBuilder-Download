@@ -11,6 +11,7 @@
 [![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.1.1-3DDC84?style=for-the-badge)](https://github.com/lerapeurdu62280-debug/AndroidTvPcIsoBuilder-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-configuration-requise)
 [![Français](https://img.shields.io/badge/interface-français-7B61FF?style=for-the-badge)](#)
+[![Discord](https://img.shields.io/badge/Discord-rejoindre_l%E2%80%99atelier-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=12141B)](https://discord.gg/W5hd36CW6b)
 
 <br>
 
@@ -202,6 +203,8 @@ Laissez la sortie son sur « Automatique » (réglage par défaut). Si le probl�
 ---
 
 <div align="center">
+
+💬 Une question, un souci ? Rejoignez le **[Discord de l'atelier](https://discord.gg/W5hd36CW6b)**.
 
 **AndroidTvPcIsoBuilder** — conçu et développé par **S.O.S INFO LUDO**
 
